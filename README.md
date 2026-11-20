@@ -130,3 +130,7 @@
 - [美区 Apple ID 购买指南](https://github.com/cointaboo/apple-id-purchase-guide) — 独享/共享/免税州怎么选
 - [短信接码平台选择指南](https://github.com/cointaboo/sms-verification-guide) — 虚拟号、实体卡、长期续租怎么挑
 - [海外账号平台甄别指南](https://github.com/cointaboo/overseas-account-platform-guide) — 四类渠道怎么判断、小额试单怎么做
+
+---
+
+**原文与完整指南**：https://yuantou.one/guide/
